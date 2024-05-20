@@ -10,7 +10,7 @@ Well.. as long as you didn't restart your PC/Game.
 ## How it works
 
 Content Warning stores a _.webm_ file in your LocalAppData every time you hit "Record" ingame. You can find the files 
-from your last session in _C:Users\<YourUsername>\AppData\Local\Temp\rec_
+from your last session in _C:\Users\\<YourUsername\>\AppData\Local\Temp\rec_
 
 After bringing back the camera to your home base and throwing it into the "VideoExtractor" (or whatever it is called) 
 the game will concatenate the recorded videos into one file and you'll have the option to save it to your desktop.
